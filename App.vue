@@ -23,7 +23,7 @@ export default {
       Noticias: ""
     };
   },
-
+//Comment
   mounted() {
     this.NewFunc();
     this.getConsumir();
